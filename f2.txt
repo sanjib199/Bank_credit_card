@@ -1,12 +1,4 @@
-Name: - Sanjib Basak.
-
-
-
-
-{
-
-//JIRA Token-102
-
-State:- West-Bengal
-
-}
+Name: - Sanjib Basak
+B.Tech: - ECE
+YOP: -2019
+city:- Kolkata
